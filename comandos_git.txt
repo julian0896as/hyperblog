@@ -9,4 +9,7 @@ git log = muestra el historial de commits con su respectivo autor.
 
 git status = muestra el estado de los archivos untraked and recent traked (staging)
 
+git branch "nombre" = crea una rama para trabajar de manera independiente al master. 
+
+git checkout = me envía a la rama donde quiero trabajar
 
