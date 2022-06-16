@@ -1,1 +1,1 @@
-esta es la biografia de Julian para aprender git.
+esta es la biografia de Julian para aprender git.   
